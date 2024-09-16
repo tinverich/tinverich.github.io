@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tinverich.github.io/sitemap.html.gz
+Sitemap: https://tinverich.github.io/app/sitemap.html.gz
+Sitemap: https://tinverich.github.io/assets/sitemap.html.gz
+Sitemap: https://tinverich.github.io/css/sitemap.html.gz
+Sitemap: https://tinverich.github.io/includes/sitemap.html.gz
+Sitemap: https://tinverich.github.io/item/sitemap.html.gz
+Sitemap: https://tinverich.github.io/src/sitemap.html.gz
